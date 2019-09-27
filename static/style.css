@@ -1,0 +1,7 @@
+div {
+  transition-property: top, left;
+  transition-duration: 0.5s;
+}
+body {
+  background-color: #000;
+}
